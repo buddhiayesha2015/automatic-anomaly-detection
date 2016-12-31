@@ -42,13 +42,12 @@ This module is for processing Memory and Garbage collection statistics provided 
   ![Add Repository](https://github.com/wso2-incubator/automatic-anomaly-detection/blob/master/docs/images/AddRepositoryScreenshots.png)
   
   7. Select the repository from Repository List, remove the tick from the Group features by category and click on the Find Features button.
-  
   ![Find Features](https://github.com/wso2-incubator/automatic-anomaly-detection/blob/master/docs/images/FindFeaturesScreenshots.png)
   
   8. Select the Anomaly Prediction Commons feature.
     ![Install Features](https://github.com/wso2-incubator/automatic-anomaly-detection/blob/master/docs/images/CommonsFeaturesScreenshots.png)
     
-  9. Select the one you want and click install.
+  9. Then select the one you want and click install.
     ![Install Features](https://github.com/wso2-incubator/automatic-anomaly-detection/blob/master/docs/images/InstallFeaturesScreenshots.png)
   
   10. Then restart the server.
